@@ -1,4 +1,4 @@
-# Привет, я Артём 👋
+# Привет, я Артем 👋
 
 [Русский](README.md) · [English](README.en.md)
 
@@ -8,14 +8,16 @@ Frontend-разработчик на **React и TypeScript** с более че�
 
 ## Технологии
 
-`React` `TypeScript` `JavaScript` `Redux Toolkit` `React Router` `HTML` `CSS` `SCSS` `REST API` `Git` `Vite`
-
-## Избранные проекты
+`React` `TypeScript` `JavaScript` `Redux Toolkit` `React Router` `HTML` `CSS` `SCSS` `REST API` `Git` `Vite` `Astro`
+ 
+<details>
+<summary><strong>Избранные проекты</strong></summary>
 
 - [**Открытая Территория**](https://otkter.ru) — production-сайт творческого объединения: разработка по макетам Figma, архитектура, REST API, деплой и поддержка.
-- [**Феномены**](https://nii-vn.ru) — иммерсивный одностраничный сайт культурного проекта.
+- [**Феномены**](https://nii-vn.ru) — иммерсивный одностраничный сайт спектакля Феномены.
 - [**Эфир**](https://ether-landing.vercel.app) — лендинг платформы для совместной работы творческих команд.
-- [**CMS Открытой Территории**](https://github.com/khruartem/otkter-cms) — fullstack CMS с фокусом на моделирование предметной области и поддерживаемую архитектуру.
+
+</details>
 
 <details>
 <summary><strong>Подробнее обо мне</strong></summary>
