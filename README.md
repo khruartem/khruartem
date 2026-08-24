@@ -8,7 +8,7 @@ Frontend-разработчик на **React и TypeScript** с более че�
 
 ## Технологии
 
-`React` `TypeScript` `JavaScript` `Redux Toolkit` `React Router` `HTML` `CSS` `SCSS` `REST API` `Git` `Vite` `Astro`
+`React` `TypeScript` `JavaScript` `Redux Toolkit` `React Router` `HTML` `CSS` `SCSS` `REST API` `Git` `Vite` `Astro` `Tailwind`
  
 <details>
 <summary><strong>Избранные проекты</strong></summary>
